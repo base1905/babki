@@ -1,0 +1,50 @@
+#all
+    {
+    margin-left: 0px;
+    width: 800px;
+    height: 500px;
+	position: relative;
+    }
+
+#menu
+    {
+	position: absolute;
+	margin-left: 0px;
+	width: 424px;
+	left: 0px;
+	top: 0px;
+	height: 577px;
+    }
+
+#new
+    {
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 50px;
+	width: 300px;
+	height: 400px;
+	text-align: left;
+	left: 28px;
+	top: 0px;
+    }
+	
+A { color: #000000;}
+A.a { color: #000000;}
+A.a:hover { color: #000000;}
+
+p {
+font-weight:normal;
+    text-align:left;
+	font-style:normal;
+	font-family: sans-serif;
+	font-size: 12px;
+	color:#000000;
+	
+	}
+	
+h1 {
+	font-family: sans-serif;
+	font-size: 10px;
+	color:#000000;
+	}
+	
