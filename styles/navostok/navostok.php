@@ -12,7 +12,7 @@
 
 <body bgcolor="#FFCC00">
 
-<?php include '../menu3.php'; ?>
+<?html include '../menu3.html'; ?>
 
 <br>
 

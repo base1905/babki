@@ -29,14 +29,14 @@
   <tr>
     <th width="16">
     <th width="23" NOWRAP><img src="../menu/bok_1.jpg"></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_aek/aek1.php"><img src="../menu/aek.jpg" alt="AEK" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_sate/sate.php"><img src="../menu/sate.jpg" alt="SATE" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_base/base.php"><img src="../menu/base.jpg" alt="BASE" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_core/core.php"><img src="../menu/core.jpg" alt="CORE" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_dery/dery.php"><img src="../menu/dery.jpg" alt="DERY" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_scan/scan.php"><img src="../menu/scan.jpg" alt="SCAN" border="0"></a></th>
-	<th align="left"><a href="http://www.btk-legend.com/btk_su/su.php"><img src="../menu/su.jpg" alt="SU" border="0"></a></th>
-    <th align="left"><a href="http://www.btk-legend.com/btk_che/che.php"><img src="../menu/che.jpg" alt="CHE" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_aek/aek1.html"><img src="../menu/aek.jpg" alt="AEK" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_sate/sate.html"><img src="../menu/sate.jpg" alt="SATE" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_base/base.html"><img src="../menu/base.jpg" alt="BASE" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_core/core.html"><img src="../menu/core.jpg" alt="CORE" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_dery/dery.html"><img src="../menu/dery.jpg" alt="DERY" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_scan/scan.html"><img src="../menu/scan.jpg" alt="SCAN" border="0"></a></th>
+	<th align="left"><a href="http://www.btk-legend.com/btk_su/su.html"><img src="../menu/su.jpg" alt="SU" border="0"></a></th>
+    <th align="left"><a href="http://www.btk-legend.com/btk_che/che.html"><img src="../menu/che.jpg" alt="CHE" border="0"></a></th>
   </tr>
 </table>
 
@@ -44,9 +44,9 @@
   <tr>
     <td width="16">
     <th width="23" NOWRAP><img src="../menu/bok_2.jpg" width="23" height="50"></th>
-    <th align="left" valign="top"><a href="http://www.btk-legend.com/btk_pieces/pieces.php"><img src="../menu/btk_pieces.jpg" alt="BTK PIECES" border="0"></a></th>
-    <th align="left" valign="top"><a href="http://www.btk-legend.com/styles/styles.php"><img src="../menu/btk_styles.jpg" alt="STYLES" border="0"></a></th>
-    <th align="left" valign="top"><a href="http://www.btk-legend.com/guestbook/index.php"><img src="../menu/btk_guestbook.jpg" alt="GUESTBOOK" border="0"></a></th>
+    <th align="left" valign="top"><a href="http://www.btk-legend.com/btk_pieces/pieces.html"><img src="../menu/btk_pieces.jpg" alt="BTK PIECES" border="0"></a></th>
+    <th align="left" valign="top"><a href="http://www.btk-legend.com/styles/styles.html"><img src="../menu/btk_styles.jpg" alt="STYLES" border="0"></a></th>
+    <th align="left" valign="top"><a href="http://www.btk-legend.com/guestbook/index.html"><img src="../menu/btk_guestbook.jpg" alt="GUESTBOOK" border="0"></a></th>
   </tr>
 </table>
 </body>

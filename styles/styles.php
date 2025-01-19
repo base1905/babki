@@ -24,7 +24,7 @@ a:active {
 
 <body bgcolor="#FFCC00">
 
-<?php include '../menu.php'; ?>
+<?html include '../menu.html'; ?>
 
 <br>
 
@@ -39,35 +39,35 @@ a:active {
     <p>&nbsp;</p></th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/lifestyles/lifestyles1.php">LIFESTYLES</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/lifestyles/lifestyles1.html">LIFESTYLES</a> </span></h3>
     <p>&nbsp;</p><p>&nbsp;</p></th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/stb/stb1.php">STB</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/stb/stb1.html">STB</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/sar/sar.php">SAR BOYS</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/sar/sar.html">SAR BOYS</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/navostok/navostok.php">NAVOSTOK</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/navostok/navostok.html">NAVOSTOK</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/df/df.php">DF</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/df/df.html">DF</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/shae/shae1.php">Shae</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/shae/shae1.html">Shae</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/eug/eug1.php">Eug</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/eug/eug1.html">Eug</a> </span></h3>
       </th>
   </tr>
   <tr>
-    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/skup/skup1.php">Skup</a> </span></h3>
+    <th><h3><span class="style1"><a href="http://www.btk-legend.com/styles/skup/skup1.html">Skup</a> </span></h3>
       </th>
   </tr>
   <p>&nbsp;</p></th>
